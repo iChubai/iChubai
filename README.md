@@ -28,7 +28,8 @@
 ---
 
 ## 🔬 Research Interests
-> **Vision Foundation Models & Representation Learning (General Vision)** 
+> **Vision Foundation Models & Representation Learning (General Vision)**
+> 
 > I am interested in self-supervised vision foundation models that learn strong, transferable visual representations from large-scale unlabeled data. My research focuses on designing effective pretraining objectives, improving feature invariances and semantic alignment, and enabling efficient adaptation to downstream tasks via fine-tuning or prompting. I also study robustness and generalization under distribution shift, aiming to build representations that remain reliable across diverse domains and data conditions.
 >   
 > **Geometry-Grounded 3D/4D Learning and Dynamic Scene Understanding**  
