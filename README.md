@@ -41,7 +41,7 @@
 
 ---
 
-🥴 I reject any short-term, meaningless, shortcut-driven, or unethical research practices.
+## 🥴 I reject any short-term, meaningless, shortcut-driven, or unethical research practices.
 
 ---
 
