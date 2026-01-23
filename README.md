@@ -36,6 +36,7 @@
 > I work on geometry-aware learning for 3D and 4D (space-time) perception, targeting models that reason about structure, motion, and dynamic scene evolution. My interests include learning geometry-consistent spatiotemporal representations, integrating multi-view and video cues, and developing scalable approaches for 4D reconstruction/understanding. I aim to bridge representation learning with geometric constraints to improve consistency, interpretability, and data efficiency in real-world 3D/4D tasks.
 >
 > **Multimodal Perception and Fusion**
+> 
 > My research explores modality-aware fusion architectures, cross-modal alignment, and learning strategies that remain effective under missing/noisy modalities. I am particularly interested in building robust, generalizable multimodal representations that enhance geometric understanding, improve performance in challenging environments, and transfer across datasets and sensor setups.
 
 ---
