@@ -32,7 +32,8 @@
 > 
 > I am interested in self-supervised vision foundation models that learn strong, transferable visual representations from large-scale unlabeled data. My research focuses on designing effective pretraining objectives, improving feature invariances and semantic alignment, and enabling efficient adaptation to downstream tasks via fine-tuning or prompting. I also study robustness and generalization under distribution shift, aiming to build representations that remain reliable across diverse domains and data conditions.
 >   
-> **Geometry-Grounded 3D/4D Learning and Dynamic Scene Understanding**  
+> **Geometry-Grounded 3D/4D Learning and Dynamic Scene Understanding**
+> 
 > I work on geometry-aware learning for 3D and 4D (space-time) perception, targeting models that reason about structure, motion, and dynamic scene evolution. My interests include learning geometry-consistent spatiotemporal representations, integrating multi-view and video cues, and developing scalable approaches for 4D reconstruction/understanding. I aim to bridge representation learning with geometric constraints to improve consistency, interpretability, and data efficiency in real-world 3D/4D tasks.
 >
 > **Multimodal Perception and Fusion**
