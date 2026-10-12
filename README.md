@@ -28,18 +28,20 @@
 ---
 
 ## 🔬 Research Interests
-> **Vision Foundation Models & Representation Learning (General Vision)**
-> 
-> I am interested in self-supervised vision foundation models that learn strong, transferable visual representations from large-scale unlabeled data. My research focuses on designing effective pretraining objectives, improving feature invariances and semantic alignment, and enabling efficient adaptation to downstream tasks via fine-tuning or prompting. I also study robustness and generalization under distribution shift, aiming to build representations that remain reliable across diverse domains and data conditions.
->   
-> **Geometry-Grounded 3D/4D Learning and Dynamic Scene Understanding**
-> 
-> I work on geometry-aware learning for 3D and 4D (space-time) perception, targeting models that reason about structure, motion, and dynamic scene evolution. My interests include learning geometry-consistent spatiotemporal representations, integrating multi-view and video cues, and developing scalable approaches for 4D reconstruction/understanding. I aim to bridge representation learning with geometric constraints to improve consistency, interpretability, and data efficiency in real-world 3D/4D tasks.
->
-> **Multimodal Perception and Fusion**
-> 
-> My research explores modality-aware fusion architectures, cross-modal alignment, and learning strategies that remain effective under missing/noisy modalities. I am particularly interested in building robust, generalizable multimodal representations that enhance geometric understanding, improve performance in challenging environments, and transfer across datasets and sensor setups.
 
+My research interests center on **World Models**, with a focus on three interconnected directions: **Visual Generation, Agent Intelligence, and 3D/4D Vision**. I am interested in how these directions can jointly enable models to represent the world, predict its evolution, and support purposeful interaction—connecting visual observations with geometry, dynamics, and action.
+
+> **Visual Generation**
+>
+> I am interested in image and video generative models that capture both visual appearance and scene dynamics. My interests include controllable generation, temporally coherent motion, and consistency in scene geometry and object interactions. In the context of world models, I want to explore how visual generation can move beyond producing plausible content to simulating possible futures under different conditions and actions.
+>
+> **Agent Intelligence**
+>
+> I am interested in agents that learn through interaction and use predictive models to reason about the consequences of their actions. My interests include grounded reasoning, action-conditioned prediction, and long-horizon planning. I want to explore how world models can help agents anticipate outcomes, evaluate alternative actions, and adapt their behavior to unfamiliar tasks and environments.
+>
+> **3D/4D Vision**
+>
+> I am interested in learning geometric and spatiotemporal representations of the world from images, videos, and multi-view observations. This includes 3D reconstruction, dynamic scene modeling, and joint understanding of scene structure and motion in 4D space-time. I want to investigate how geometry can ground visual generation and agent interaction, providing spatially and temporally consistent representations for world modeling.
 ---
 
 ## 🥴 I reject any short-term, meaningless, shortcut-driven, or unethical research practices.
