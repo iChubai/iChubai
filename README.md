@@ -29,19 +29,19 @@
 
 ## 🔬 Research Interests
 
-My research interests center on **World Models**, with a focus on three interconnected directions: **Visual Generation, Agent Intelligence, and 3D/4D Vision**. I am interested in how these directions can jointly enable models to represent the world, predict its evolution, and support purposeful interaction—connecting visual observations with geometry, dynamics, and action.
+My research interests center on **World Models**, bringing together visual generation, agentic intelligence, and 3D/4D vision as complementary perspectives on understanding how the world evolves and how intelligent agents interact with it.
 
 > **Visual Generation**
 >
-> I am interested in image and video generative models that capture both visual appearance and scene dynamics. My interests include controllable generation, temporally coherent motion, and consistency in scene geometry and object interactions. In the context of world models, I want to explore how visual generation can move beyond producing plausible content to simulating possible futures under different conditions and actions.
+> I am interested in video generation as a form of world simulation, rendering the evolution of scenes in pixel space. From this perspective, generation is not merely about producing visual content, but about expressing how a world unfolds—making its dynamics and possible futures visible.
 >
-> **Agent Intelligence**
+> **Agentic Intelligence**
 >
-> I am interested in agents that learn through interaction and use predictive models to reason about the consequences of their actions. My interests include grounded reasoning, action-conditioned prediction, and long-horizon planning. I want to explore how world models can help agents anticipate outcomes, evaluate alternative actions, and adapt their behavior to unfamiliar tasks and environments.
+> I am interested in the reasoning and planning dimension of world models, complementing visual simulation with the ability to logically reason through possible futures. This perspective connects understanding with action: anticipating how the world may change, considering the consequences of different choices, and planning purposeful interactions.
 >
 > **3D/4D Vision**
 >
-> I am interested in learning geometric and spatiotemporal representations of the world from images, videos, and multi-view observations. This includes 3D reconstruction, dynamic scene modeling, and joint understanding of scene structure and motion in 4D space-time. I want to investigate how geometry can ground visual generation and agent interaction, providing spatially and temporally consistent representations for world modeling.
+> I see 3D/4D vision as the geometric foundation of world simulation, grounding visual experience in a three-dimensional world that evolves over time. My interest lies in how this understanding can help simulators move beyond sequences of pixels toward structured worlds, providing a shared spatial foundation for visual generation and intelligent interaction.
 ---
 
 ## 🥴 I reject any short-term, meaningless, shortcut-driven, or unethical research practices.
