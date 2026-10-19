@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <a href="https://ichubai.github.io/Mysite/"><strong>🌐 Explore my full homepage →</strong></a>
+  <a href="https://ichubai.github.io/site/"><strong>🌐 Explore my full homepage →</strong></a>
 </p>
 
 <p align="center">
