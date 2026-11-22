@@ -1,13 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=200&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Jiadong+Hou;Junior+Student+@Nankai+University;Junior+AI+Researcher" alt="Typing SVG" />
-</h1>
+<img src="./resources/profile-header.png" width="100%" alt="Hi, this is Jiadong Hou. Black swan logo.">
 
-<h3 align="center">Jiadong Hou</h3>
-
-<p align="center">
-  🎓 Undergraduate Student in Computer Science @ Nankai University<br>
-  📧 Email: <a href="mailto:2311671@mail.nankai.edu.cn">2311671[@]mail.nankai.edu.cn</a>
-</p>
+<h3 align="center">Jiadong Hou <img src="./resources/black-swan.gif" width="86" align="middle" alt="Black swan swimming"></h3>
 
 **Research interests:**
 - World Models
@@ -17,4 +10,4 @@
 
 **I reject any short-term, meaningless, shortcut-driven, or unethical research practices.**
 
-<a href="https://ichubai.github.io/site/"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Visit Jiadong Hou's homepage"></a>
+<a href="https://openenvision.org/"><img src="./resources/profile-footer.png" width="100%" alt="Visit the OpenEnvision website"></a>
